@@ -5,7 +5,7 @@
 ## 联系方式
 
 - 手机:18108433799
-- Email:<a href="mailto:tjbeta@163.com">tjbeta@163.com</a>
+- Email:<a href="mailto:tjbeta@163.com">1445383758@qq.com</a>
 
 ## 个人信息
 
@@ -102,5 +102,5 @@
  - 了解adb+Logcat,Charles,Emmagee,gfxinfo等常用app测试工具
  - 了解基于Selenium Webdriver的Web自动化测试
  - 了解Jemeter接口及性能测试
- - 了解svn,Git,jenkins
+ - 了解svn
  - 了解Linux Bash命令
